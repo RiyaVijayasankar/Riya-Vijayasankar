@@ -8,7 +8,6 @@
 - 💪🏽 Ask me about Java, SQL, or React!
 
 ### 📌 Projects
-- [Gig Scheduler](https://github.com/RiyaVijayasankar/gig-scheduler) - Command-line app to manage band gigs
-- [Truth Tabler](https://github.com/RiyaVijayasankar/truth-tabler) - Logic proposition parser + truth table generator
+
 
 📫 Reach me at @vijayasankarriya@gmail.com
