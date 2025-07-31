@@ -8,6 +8,6 @@
 - 💪🏽 Ask me about Java, SQL, or React!
 
 ### 📌 Projects
-
+...soon
 
 📫 Reach me at @vijayasankarriya@gmail.com
